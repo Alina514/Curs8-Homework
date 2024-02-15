@@ -15,7 +15,8 @@ public class PersonInfo {
     }
 
     public String getFullName() {
-        return firstName + " " + lastName; 
+
+        return firstName + " " + lastName;
     }
 
     public int getAge() {
